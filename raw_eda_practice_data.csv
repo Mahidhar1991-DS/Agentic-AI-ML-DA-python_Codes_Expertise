@@ -1,0 +1,156 @@
+Emp_ID,Name,Age,Experience,Department,Salary,Join_Date,Performance_Score,City
+1051,Sneha,30.0,10,IT,60000,2019-07-15,,Chennai
+1092,Raj,32.0,2,Operations,80000,2021-03-20,5.0,Mumbai
+1014,Amit,40.0,2,IT,90000,2019-07-15,,Mumbai
+1071,Amit,25.0,10,IT,,2019-07-15,,
+1060,Deepa,32.0,1,IT,90000,2019-07-15,4.0,Bangalore
+1020,Kunal,30.0,5,,90000,2020-01-10,,Mumbai
+1082,Sneha,25.0,2,IT,"1,20,000",2020-01-10,3.0,Delhi
+1086,Raj,32.0,10,Finance,90000,2019-07-15,,
+1074,Deepa,40.0,,HR,,2021-03-20,,Chennai
+1074,Kunal,32.0,10,Sales,100000,2018-05-01,,
+1087,Deepa,40.0,3 years,IT,90000,2021-03-20,1.0,Chennai
+1099,Riya,30.0,5,Operations,70000,,3.0,
+1023,Kunal,40.0,7 yrs,IT,80000,2020-01-10,3.0,
+1002,Kunal,25.0,1,Operations,90000,2018-05-01,5.0,
+1021,Sneha,30.0,7 yrs,Finance,80000,2018-05-01,4.0,Chennai
+1052,Kunal,25.0,5,Operations,70000,,,Chennai
+1001,Deepa,,5,Sales,70000,,2.0,
+1087,Kunal,28.0,5,HR,80000,2019-07-15,4.0,Mumbai
+1029,Sneha,40.0,7 yrs,Operations,50000,2020-01-10,4.0,Bangalore
+1037,Sneha,28.0,,Operations,60000,2020-01-10,3.0,Bangalore
+1001,Riya,28.0,5,HR,"1,20,000",2021-03-20,4.0,Bangalore
+1063,Deepa,40.0,10,Sales,50000,2019-07-15,,Chennai
+1059,Amit,30.0,7 yrs,IT,50000,2019-07-15,,Chennai
+1020,Amit,,5,Operations,100000,2019-07-15,1.0,Mumbai
+1032,Kunal,25.0,10,HR,"1,20,000",2019-07-15,,Bangalore
+1075,Riya,32.0,,Finance,"1,20,000",2020-01-10,,Bangalore
+1057,Raj,25.0,3 years,HR,50000,2020-01-10,3.0,
+1021,Kunal,32.0,,Finance,90000,2019-07-15,,Chennai
+1088,Riya,25.0,5,Sales,100000,2021-03-20,1.0,Bangalore
+1048,Deepa,40.0,7 yrs,IT,100000,2018-05-01,2.0,Mumbai
+1090,Deepa,,2,HR,70000,2018-05-01,3.0,Mumbai
+1058,Deepa,32.0,5,,,2021-03-20,2.0,Bangalore
+1041,Deepa,45.0,2,Operations,"1,20,000",2019-07-15,3.0,Chennai
+1091,Deepa,30.0,10,Sales,50000,2020-01-10,5.0,Mumbai
+1059,Riya,25.0,3 years,HR,70000,2018-05-01,4.0,
+1079,Riya,25.0,1,Operations,80000,,5.0,Mumbai
+1014,Sneha,32.0,,HR,60000,,,Delhi
+1061,Amit,30.0,3 years,Finance,,2021-03-20,2.0,Delhi
+1061,Deepa,30.0,5,HR,,2019-07-15,,Chennai
+1046,Raj,40.0,2,,,2018-05-01,4.0,Bangalore
+1061,Riya,45.0,,HR,100000,2019-07-15,3.0,Chennai
+1050,Raj,40.0,2,HR,80000,2018-05-01,4.0,Chennai
+1054,Raj,40.0,7 yrs,,,2021-03-20,1.0,Chennai
+1063,Raj,40.0,2,Sales,80000,2021-03-20,4.0,Chennai
+1002,Sneha,40.0,7 yrs,HR,90000,,1.0,
+1050,Riya,40.0,10,,,2019-07-15,4.0,
+1006,Raj,,,Operations,60000,,1.0,Mumbai
+1020,Deepa,30.0,,Finance,80000,2019-07-15,2.0,Delhi
+1072,Kunal,40.0,1,Finance,80000,,,Chennai
+1038,Raj,30.0,5,HR,60000,2020-01-10,,Mumbai
+1017,Sneha,30.0,7 yrs,Sales,,2020-01-10,5.0,Delhi
+1003,Riya,28.0,1,Sales,60000,2020-01-10,,Bangalore
+1088,Sneha,,2,Operations,80000,2020-01-10,3.0,
+1059,Raj,40.0,2,HR,60000,2018-05-01,4.0,Delhi
+1013,Riya,25.0,1,Finance,80000,2020-01-10,5.0,Bangalore
+1008,Kunal,32.0,,Sales,80000,2021-03-20,3.0,Delhi
+1089,Raj,45.0,2,HR,90000,2021-03-20,3.0,
+1052,Sneha,25.0,10,Sales,50000,2018-05-01,1.0,
+1001,Amit,,10,,80000,2020-01-10,,Mumbai
+1083,Deepa,32.0,1,Sales,,2020-01-10,2.0,Chennai
+1091,Sneha,,7 yrs,Finance,70000,2020-01-10,2.0,Delhi
+1059,Riya,30.0,7 yrs,IT,100000,,5.0,Delhi
+1070,Raj,32.0,1,Operations,"1,20,000",2019-07-15,2.0,Bangalore
+1043,Deepa,30.0,7 yrs,Operations,50000,,4.0,
+1007,Raj,25.0,,Finance,50000,2019-07-15,2.0,Delhi
+1046,Riya,25.0,,Sales,50000,2020-01-10,5.0,
+1034,Raj,32.0,7 yrs,HR,90000,2020-01-10,2.0,Delhi
+1077,Amit,32.0,10,Sales,80000,,4.0,Mumbai
+1080,Deepa,40.0,7 yrs,Finance,90000,,1.0,Chennai
+1035,Deepa,,,Operations,80000,2019-07-15,5.0,Delhi
+1049,Riya,40.0,3 years,Sales,,2021-03-20,1.0,
+1003,Amit,,5,Operations,90000,2019-07-15,1.0,Mumbai
+1001,Sneha,40.0,2,HR,90000,,1.0,Delhi
+1005,Raj,30.0,3 years,Operations,100000,,3.0,Bangalore
+1053,Kunal,32.0,7 yrs,Operations,70000,2018-05-01,,Chennai
+1003,Raj,25.0,10,IT,90000,,3.0,Delhi
+1053,Raj,,1,IT,100000,2018-05-01,,Mumbai
+1092,Sneha,,7 yrs,,60000,2021-03-20,1.0,Bangalore
+1062,Raj,25.0,10,IT,70000,2019-07-15,5.0,Mumbai
+1017,Amit,40.0,5,Operations,,2019-07-15,,Mumbai
+1089,Amit,,7 yrs,Finance,90000,2018-05-01,4.0,Bangalore
+1043,Deepa,45.0,,Operations,"1,20,000",2019-07-15,4.0,Mumbai
+1033,Riya,30.0,1,Finance,50000,,2.0,Bangalore
+1073,Kunal,32.0,10,Finance,60000,2020-01-10,,Delhi
+1061,Raj,25.0,10,IT,60000,2018-05-01,5.0,Bangalore
+1099,Raj,32.0,10,Sales,,2019-07-15,3.0,Bangalore
+1013,Sneha,45.0,5,HR,100000,2018-05-01,1.0,Chennai
+1094,Riya,,7 yrs,IT,60000,2018-05-01,2.0,Bangalore
+1047,Amit,,5,IT,70000,2020-01-10,4.0,Bangalore
+1014,Kunal,45.0,2,Sales,90000,,3.0,Delhi
+1071,Deepa,25.0,2,HR,90000,2018-05-01,3.0,Chennai
+1077,Amit,30.0,7 yrs,Operations,"1,20,000",2019-07-15,1.0,
+1086,Riya,28.0,,,,2021-03-20,,Delhi
+1061,Deepa,25.0,5,,50000,2018-05-01,4.0,Delhi
+1039,Sneha,28.0,1,Operations,100000,2018-05-01,5.0,
+1084,Sneha,45.0,10,IT,50000,2020-01-10,3.0,Bangalore
+1079,Raj,40.0,10,HR,60000,,1.0,Mumbai
+1081,Riya,28.0,7 yrs,IT,,2021-03-20,5.0,Chennai
+1052,Kunal,30.0,,Finance,"1,20,000",2019-07-15,,Mumbai
+1023,Deepa,40.0,2,IT,50000,2021-03-20,4.0,
+1025,Amit,28.0,2,IT,70000,2019-07-15,,Delhi
+1088,Riya,45.0,10,Operations,90000,,3.0,Delhi
+1059,Riya,40.0,7 yrs,Operations,60000,2019-07-15,5.0,Chennai
+1040,Sneha,45.0,5,Operations,"1,20,000",2020-01-10,5.0,Delhi
+1028,Raj,28.0,2,,50000,2020-01-10,5.0,Delhi
+1014,Raj,45.0,5,Finance,100000,2020-01-10,3.0,Chennai
+1044,Deepa,30.0,,Operations,70000,2020-01-10,3.0,Chennai
+1064,Sneha,28.0,2,HR,70000,2021-03-20,,
+1088,Riya,28.0,2,,50000,,2.0,Delhi
+1070,Kunal,28.0,3 years,Sales,90000,2019-07-15,,Delhi
+1008,Sneha,25.0,2,HR,50000,2019-07-15,4.0,
+1087,Deepa,25.0,1,HR,60000,2020-01-10,1.0,Bangalore
+1000,Deepa,25.0,7 yrs,Operations,50000,2020-01-10,5.0,Bangalore
+1007,Sneha,30.0,7 yrs,Sales,70000,2018-05-01,2.0,Bangalore
+1087,Deepa,40.0,5,Sales,"1,20,000",,1.0,
+1062,Sneha,45.0,,,50000,2021-03-20,2.0,Delhi
+1010,Amit,,2,Sales,90000,2019-07-15,,
+1080,Sneha,28.0,1,Finance,,2018-05-01,3.0,
+1007,Sneha,45.0,5,Operations,"1,20,000",2018-05-01,5.0,Bangalore
+1034,Deepa,28.0,3 years,Sales,100000,2019-07-15,,Mumbai
+1034,Deepa,30.0,5,,80000,2021-03-20,1.0,Delhi
+1032,Raj,28.0,5,Finance,50000,2018-05-01,1.0,Bangalore
+1004,Raj,25.0,2,IT,90000,2018-05-01,1.0,Mumbai
+1040,Amit,,3 years,IT,"1,20,000",,1.0,Mumbai
+1027,Raj,32.0,5,Finance,90000,2021-03-20,1.0,Chennai
+1006,Sneha,28.0,1,,100000,2018-05-01,2.0,Delhi
+1072,Deepa,45.0,1,Finance,70000,2021-03-20,,Mumbai
+1071,Raj,25.0,7 yrs,Operations,90000,2019-07-15,5.0,Bangalore
+1011,Raj,32.0,3 years,Operations,"1,20,000",2020-01-10,3.0,Chennai
+1033,Amit,,3 years,IT,90000,2018-05-01,3.0,Delhi
+1032,Riya,32.0,7 yrs,Sales,90000,,,
+1047,Amit,25.0,5,,90000,2019-07-15,,Bangalore
+1022,Sneha,40.0,3 years,IT,60000,2021-03-20,3.0,Mumbai
+1061,Deepa,40.0,1,Sales,60000,2019-07-15,3.0,Mumbai
+1087,Amit,32.0,1,Sales,70000,2018-05-01,2.0,Bangalore
+1036,Raj,30.0,2,Operations,50000,2021-03-20,4.0,Mumbai
+1098,Deepa,45.0,3 years,HR,90000,2020-01-10,5.0,Chennai
+1043,Deepa,45.0,5,HR,100000,2019-07-15,1.0,Delhi
+1085,Raj,32.0,7 yrs,Finance,50000,2018-05-01,4.0,Chennai
+1090,Amit,28.0,7 yrs,Operations,100000,,,Mumbai
+1034,Raj,28.0,5,Sales,50000,2021-03-20,3.0,
+1064,Riya,45.0,,,70000,2019-07-15,4.0,Delhi
+1098,Deepa,45.0,10,HR,90000,2019-07-15,5.0,Delhi
+1046,Kunal,40.0,2,Sales,90000,2020-01-10,,Bangalore
+1077,Kunal,30.0,7 yrs,HR,80000,2020-01-10,1.0,Bangalore
+1002,Sneha,25.0,3 years,HR,100000,,1.0,
+1000,Raj,28.0,2,HR,50000,,5.0,Delhi
+1004,Raj,45.0,3 years,,50000,2018-05-01,5.0,
+1089,Sneha,40.0,,Operations,,2018-05-01,3.0,Bangalore
+1013,Sneha,,1,,,,1.0,Bangalore
+1051,Sneha,30.0,10,IT,60000,2019-07-15,,Chennai
+1092,Raj,32.0,2,Operations,80000,2021-03-20,5.0,Mumbai
+1014,Amit,40.0,2,IT,90000,2019-07-15,,Mumbai
+1071,Amit,25.0,10,IT,,2019-07-15,,
+1060,Deepa,32.0,1,IT,90000,2019-07-15,4.0,Bangalore
